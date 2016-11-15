@@ -1,0 +1,7 @@
+Problem Solving: GitHub
+In this assignment, you will report on the followings:
+1.	Introduction to GitHub.
+2.	How to use GitHub service.
+Screen captures should be included 
+in your report so that we can clearly 
+see you actually have an account and work on GitHub
